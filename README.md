@@ -1,6 +1,6 @@
 👋 Hi, I’m James Ald! (@itsjamesthetics)
 
-  - 🚀 About Me: Passionate programmer & aspiring tech innovator. I find joy in unraveling the complexities of coding, programming, web and mobile app development, cybersecurity, and software engineering.
+  - 🚀 About Me: Passionate programmer & aspiring technology innovator. I find joy in unraveling the complexities of coding, programming, web and mobile app development, cybersecurity, and software engineering.
   - 🌐 Interests: Exploring the edge of the world and steping out in my comfort zone.
   - 🌟 Currently Learning: Expanding my horizons in different technologies, embracing both the challenges and triumphs of tech.
   - 💡 Goals: Willing to collaborate with visionary programming teams. Let's develop and innovate software and systems that revolutionize the IT industry!
